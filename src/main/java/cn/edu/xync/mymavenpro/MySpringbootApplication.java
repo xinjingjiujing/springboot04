@@ -12,5 +12,6 @@ public class MySpringbootApplication {
 
         //运行当前的SpringBoot应用程序
         SpringApplication.run(MySpringbootApplication.class);
+        System.out.println("hello");
     }
 }
